@@ -8,5 +8,5 @@ This is the homepage of my Jekyll site. Here you can add content about your proj
 
 ## Header 2
 ### Header 3
-![Sample Image](chris.jpeg)
+![Sample Image](chris.jpeg)]
 #### Header 4
